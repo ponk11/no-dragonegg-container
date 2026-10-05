@@ -1,0 +1,5 @@
+name: NoDragonEggContainer
+version: 1.0.0
+main: com.ponk11.nodragoneggcontainer.NoDragonEggContainerPlugin
+api-version: '1.21'
+description: Prevents dragon eggs from being stored or placed.
